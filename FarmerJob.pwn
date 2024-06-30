@@ -28,7 +28,7 @@ public OnFilterScriptInit()
     FarmerVehicles[8] = AddStaticVehicle(478,-370.0262,-1371.3488,22.0194,84.8406,1,1); // 4
     FarmerVehicles[9] = AddStaticVehicle(478,-368.7458,-1359.5483,21.7232,86.1116,1,1); // car5
 	print("\n----------------------------");
-	print(" Farmer Job FS Made by Virusa1");
+	print(" Farmer Job FS Made by ZEON");
 	print("----------------------------\n");
 	return 1;
 }
